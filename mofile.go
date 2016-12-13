@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/ojii/gettext.go/pluralforms"
+	"github.com/mvo5/gettext.go/pluralforms"
 	"log"
 	"os"
 	"strings"
